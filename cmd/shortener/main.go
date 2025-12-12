@@ -6,6 +6,7 @@ import (
 	"net/http"
 )
 
+// fsd
 var Symbols = []rune("qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM")
 
 var Storage = make(map[string]string)
